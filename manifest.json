@@ -3,9 +3,9 @@
   "name": "Fireworks!",
   "icons": [
     {
-      "src":"fireworks-icon144x144.png",
+      "src":"/fireworks-icon144x144.png",
       "sizes": "144x144",
-      "type": ".png" 
+      "type": "image/png" 
     }
   ],
   "start_url": "/?utm_source=homescreen",
