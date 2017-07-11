@@ -3,12 +3,12 @@
   "name": "Fireworks!",
   "icons": [
     {
-      "src":"fireworks/images/fireworks-icon144x144.png",
+      "src":"images/fireworks-icon144x144.png",
       "sizes": "144x144",
       "type": "image/png" 
     }
   ],
-  "start_url": "https://rzmogrovejo.github.io/",
+  "start_url": "/?utm_source=homescreen",
   "background_color": "#000",
   "theme_color": "#536878",
   "display": "standalone"
