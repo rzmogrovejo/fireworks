@@ -5,7 +5,7 @@
     {
       "src":"fireworks-icon192x192.png",
       "sizes": "192x192",
-      "type": "png" 
+      "type": ".png" 
     }
   ],
   "start_url": "/?utm_source=homescreen",
