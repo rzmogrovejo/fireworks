@@ -3,7 +3,7 @@
   "name": "Fireworks!",
   "icons": [
     {
-      "src":"/images/fireworks-icon144x144.png",
+      "src":"fireworks/images/fireworks-icon144x144.png",
       "sizes": "144x144",
       "type": "image/png" 
     }
