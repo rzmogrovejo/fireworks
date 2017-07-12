@@ -5,6 +5,8 @@ var cacheName = 'v1';
 var cacheFiles = [
 	'./',
 	'./index.html',
+	'./index.html?utm_source=homescreen',
+	'./?utm_source=homescreen',
 	'./js/fireworks.js',
 	'./js/requestanimframe.js',
 	'./images/big-glow.png',
